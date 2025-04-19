@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535984521975)
 
 ![Igor Mol GitHub stats](https://github-readme-stats.vercel.app/api?username=Molzinho2&show_icons=true&bg_color=90,3FBFF2,13D162,8BE055&title_color=fff&text_color=fff&show_icons=true&rank_icon=github") 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Molzinho2a&layout=compact)
 
 ## Tecnologias utilizadas no meu cotidiano
 
